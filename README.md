@@ -1,8 +1,8 @@
-# MCU
-## 常见MCU开发环境搭建
-### Arduino
-### ESP32
-### STM32
+# 常见MCU开发环境搭建
+## Arduino
+## ESP32
+## STM32
+### 软件安装与环境配置
 #### cubeMX;
 #### openocd
 #### VScode
